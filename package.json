@@ -11,7 +11,8 @@
   "description": "",
   "dependencies": {
     "color-convert": "1.9.3",
-    "long": "^1.1.2"
+    "long": "^1.1.2",
+    "pac-resolver": "^4.2.0"
   },
   "devDependencies": {
     "supports-color": "4.5.0"
